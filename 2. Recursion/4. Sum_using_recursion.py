@@ -14,7 +14,7 @@
 # num = int (input("enter the Number: "))
 # print(f"the sum of first {num} natural numbers is {sum_rec(num)}")
 
-#--------------------xx Using Recursion xx----------------------------#
+#--------------------xx Using Recursion xx---------------------------#
 
 def recursion(num):
    #base condition
